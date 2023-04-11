@@ -60,7 +60,9 @@ func main() {
 
 	for _, courses := range Courses {
 		for _, currency := range courses.Valute {
-			val, _ := strconv.ParseFloat(commaReplacer.Replace(currency.Value), 5)
+			someVal, _ := strconv.ParseFloat(commaReplacer.Replace(currency.Value), 5)
+			nominal, _ := strconv.ParseFloat(commaReplacer.Replace(currency.Nominal), 2)
+			val := someVal / nominal
 
 			if maxInfo.Value < val {
 				maxInfo = ValueInfo{
