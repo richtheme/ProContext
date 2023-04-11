@@ -14,7 +14,7 @@
 
 Prerequisites:
 ```
-git clone 
+git clone https://github.com/richtheme/ProContext
 ```
 
 1 Option (using Make):
@@ -34,49 +34,49 @@ go run main.go
 Program started: Please wait..
 
 Max currency rate: SDR, Value: 111.114000, Date: 10/04/2023
-Min currency rate: China Yuan, Value: 10.001600, Date: 13/01/2023
+Min currency rate: Vietnam Dong, Value: 0.002907, Date: 24/01/2023
 Average rates:
-Indian Rupee: 86.743724
-China Yuan: 10.769076
-SDR: 98.978976
-Armenia Dram: 18.842679
-Belarussian Ruble: 26.589197
-Brazil Real: 14.267198
-Danish Krone: 21.561869
-British Pound Sterling: 89.970738
-Moldova Lei: 39.380633
-Swedish Krona: 70.876441
-Vietnam Dong: 28.680696
-Kazakhstan Tenge: 16.287298
-New Zealand Dollar: 42.622384
-Ukrainian Hryvnia: 20.004378
-Azerbaijan Manat: 43.417960
-Hong Kong Dollar: 88.069950
-Romanian Leu: 16.139311
-Kyrgyzstan Som: 84.898550
-Uzbekistan Sum: 65.008872
-Japanese Yen: 55.776611
-Australian Dollar: 50.418639
-Bulgarian lev: 40.596526
-UAE Dirham: 18.444157
-Canadian Dollar: 54.597157
-New Turkmenistan Manat: 21.088724
-Swiss Franc: 80.006800
-S.African Rand: 41.359224
-Hungarian Forint: 20.541557
-US Dollar: 73.810528
-Qatari Riyal: 18.610697
-Tajikistan Ruble: 69.410302
-Polish Zloty: 16.859727
-Turkish Lira: 39.016202
-Georgia Lari: 25.922366
-Euro: 79.408759
-Egyptian Pound: 22.170381
-Norwegian Krone: 71.770622
-Serbian Dinar: 62.129102
-South Korean Won: 57.615682
-Indonesian Rupiah: 44.672260
-Singapore Dollar: 55.418843
-Thai Baht: 19.932709
-Czech Koruna: 33.463048
+Singapore Dollar: 55.520743
+Turkish Lira: 3.907597
+Swedish Krona: 7.100318
+Danish Krone: 10.689841
+Indian Rupee: 0.899185
+Kazakhstan Tenge: 0.163242
+UAE Dirham: 18.691459
+Qatari Riyal: 18.860221
+S.African Rand: 4.140356
+Belarussian Ruble: 26.608726
+Hungarian Forint: 0.205951
+Vietnam Dong: 0.002907
+Moldova Lei: 3.947848
+Romanian Leu: 16.171589
+Thai Baht: 2.019769
+British Pound Sterling: 90.158479
+Egyptian Pound: 2.246436
+China Yuan: 10.787460
+SDR: 99.167783
+Serbian Dinar: 0.629729
+Australian Dollar: 50.492652
+Azerbaijan Manat: 43.497272
+Norwegian Krone: 7.185565
+Czech Koruna: 3.354166
+Swiss Franc: 80.170383
+South Korean Won: 0.057683
+Bulgarian lev: 40.680433
+Brazil Real: 14.300383
+US Dollar: 73.945358
+Canadian Dollar: 54.692818
+New Turkmenistan Manat: 21.127248
+Ukrainian Hryvnia: 2.003980
+Armenia Dram: 0.188809
+Georgia Lari: 26.280940
+Indonesian Rupiah: 0.004528
+Hong Kong Dollar: 9.444595
+Polish Zloty: 16.893346
+Uzbekistan Sum: 0.006512
+Tajikistan Ruble: 6.948613
+Japanese Yen: 0.558748
+Euro: 79.571313
+Kyrgyzstan Som: 0.850348
+New Zealand Dollar: 43.194684
 ```
